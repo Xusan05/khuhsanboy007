@@ -1,0 +1,36 @@
+.space10
+{
+    width: 100%;
+    height: 10px;
+}
+.space20
+{
+    width: 100%;
+    height: 20px;
+}
+.space30
+{
+    width: 100%;
+    height: 310px;
+}
+.space50
+{
+    width: 100%;
+    height: 40px;
+}
+.space100
+{
+    width: 100%;
+    height: 100px;
+}
+
+.overflow-y
+{
+    width: 100%;
+    overflow-y: auto;
+}
+
+.active-menu
+{
+    font-weight: bold;
+}
